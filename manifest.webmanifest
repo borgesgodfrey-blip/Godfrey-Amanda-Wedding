@@ -1,0 +1,9 @@
+{
+  "name": "Godfrey & Amanda — Goa 2027",
+  "short_name": "G & A",
+  "description": "Wedding celebration of Godfrey & Amanda",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f3e8",
+  "theme_color": "#74846c"
+}
